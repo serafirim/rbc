@@ -7,7 +7,13 @@ Here we have a clean boilerplate code for creating a React app without the unnec
     git clone https://github.com/serafirim/rbc.git
 
 ### Set it up!
-Step 1: After changing into the directory you cloned RBC into, run the following:
+(Optional) Step 0: Change the name of the directory from "rbc" to whatever you want to call your project.
+
+Step 1: After changing into the  directory you cloned RBC into, run the following:
+    npm i
+in the root directory.
+
+Step 2: Next run the following to start it:
 
     npm start
 in the root directory.
