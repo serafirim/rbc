@@ -34,4 +34,4 @@ as it might cause problems with creating your new git project, but you should al
 
 ### Profit?
 
-Do you want with this. Yeah, you can do it. 
+Do you want with this. Yeah, you can do it.  Yep
